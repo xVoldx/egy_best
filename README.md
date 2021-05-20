@@ -4,6 +4,9 @@
 
 An API for EgyBest Website ( was developed for personal use)
 
+## Easy Deploy:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 what this API can do for you?
 ----
 * all the function on the official websites
