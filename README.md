@@ -24,3 +24,10 @@ Here some of the following features:
 - [ ] Transfer to async 
 
 And, as always have a beautiful day!
+
+
+## Buildpacks
+
+- [ ] heroku/python
+- [ ] https://github.com/heroku/heroku-buildpack-chromedriver
+- [ ] https://github.com/heroku/heroku-buildpack-google-chrome
