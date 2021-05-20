@@ -7,6 +7,4 @@
     "best",
     "egybest",
   ],
-  "repository": "https://github.com/xVoldx/egy_best",
-  "stack": "heroku-20",
 }
