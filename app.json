@@ -8,5 +8,5 @@
     "egybest",
   ],
   "repository": "https://github.com/xVoldx/egy_best",
-  "stack": "heroku-20"
+  "stack": "heroku-20",
 }
