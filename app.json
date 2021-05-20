@@ -1,12 +1,12 @@
 {
-  "name": "VideoCompressBot",
+  "name": "Egybest API",
   "description": "Egybest API",
   "logo": "https://telegra.ph/file/7a2fc8f3600deac5e14fa.png",
   "keywords": [
     "api",
     "best",
-    "video",
     "egybest",
   ],
   "repository": "https://github.com/xVoldx/egy_best",
+  "stack": "heroku-20"
 }
